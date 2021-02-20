@@ -1,6 +1,7 @@
 # UniDayz-Android-Application
 
-This is a inter-college based social network andoid application supporting live messaging features and multiple authentication channels using Firebase. Some Screenshots from the Project are given below : 
+This is a inter-college based social network andoid application supporting live messaging features and multiple authentication channels using Firebase. Currently working on to eliminate possible bugs and deployable on the Google Play Store.
+Some Screenshots from the Project are given below : 
 
 ![Authentication](https://github.com/rohankrgupta/UniDayz/blob/master/Screenshot1.png)
 ![Email-Verification](https://github.com/rohankrgupta/UniDayz/blob/master/Screenshot2.png)
