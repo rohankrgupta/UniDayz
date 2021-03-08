@@ -4,6 +4,7 @@ This is a inter-college based social network andoid application supporting live 
 Some Screenshots from the Project are given below : 
 
 ![Authentication](https://github.com/rohankrgupta/UniDayz/blob/master/Screenshot1.png)
+![](https://github.com/rohankrgupta/UniDayz/blob/master/WhatsApp%20Image%202021-03-08%20at%205.30.06%20PM.jpg)
 ![](https://github.com/rohankrgupta/UniDayz/blob/master/WhatsApp%20Image%202021-03-08%20at%205.30.02%20PM.jpeg)
 ![Email-Verification](https://github.com/rohankrgupta/UniDayz/blob/master/Screenshot2.png)
 ![Profile Section](https://github.com/rohankrgupta/UniDayz/blob/master/Screenshot3.png)
